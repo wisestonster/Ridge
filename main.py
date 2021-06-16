@@ -1,6 +1,7 @@
 # https://www.codeit.kr/learn/courses/machine-learning/3353
 # 정규화(Regularization)
 # 12. L2 정규화 직접 해보기
+# Lasso와 Ridge을 사용한 회귀, 과적합 예방
 
 from sklearn.linear_model import Ridge
 from sklearn.model_selection import train_test_split
